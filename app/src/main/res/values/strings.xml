@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">salesApp</string>
+    <string name="pasarela_de_pago_payphone">PASARELA DE PAGO PAYPHONE</string>
+    <string name="comprar">Comprar</string>
+    <string name="n_mero_de_telefono">Número de teléfono:</string>
+    <string name="codigo_de_pa_s">Código de país:</string>
+    <string name="n_mero_de_c_dula">Número de cédula: </string>
+    <string name="direcci_n_de_referencia">Dirección de referencia: </string>
+</resources>
